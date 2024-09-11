@@ -1,0 +1,26 @@
+.proj-technologies {
+    display: flex;
+    align-items: center;
+}
+
+.proj-content {
+    text-align: left;
+    margin-top: -2%;
+}
+
+
+.proj-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.proj-role {
+    display: flex;
+    align-items: center;
+}
+
+.proj-description {
+    margin-left: 20px;
+    margin-top: -2%;
+}

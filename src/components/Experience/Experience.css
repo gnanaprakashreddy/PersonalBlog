@@ -1,0 +1,23 @@
+.exp-content {
+    text-align: left;
+}
+
+
+.exp-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.exp-period {
+    text-align: right;
+}
+
+.exp-role {
+    display: flex;
+    align-items: center;
+}
+
+.exp-description {
+    margin-left: 20px;
+}

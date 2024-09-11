@@ -1,0 +1,15 @@
+.about-content {
+    text-align: left;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.description {
+    margin-left: 20px; /* Indent description */
+}
